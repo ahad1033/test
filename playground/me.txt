@@ -1,5 +1,0 @@
-{{#user}
-Name: Ahad Ahamed Akash
-Skills: HTML, CSS, JS, React.js, Node.js, MongoDB, Firebase, Express.js, TailwindCSS, Bootstrap
-Email: ahad.dev2@gmail.com
-{{/user}}
